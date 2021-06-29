@@ -1,0 +1,15 @@
+.dcl.logo {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border-radius: 100%;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 62.05 62.06'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%234d72f7%3B%7D.cls-2%7Bfill:%233d62c9%3B%7D.cls-3%7Bfill:%23fff%3B%7D%3C/style%3E%3C/defs%3E%3Cg id='Layer_2' data-name='Layer 2'%3E%3Cg id='Layer_2-2' data-name='Layer 2'%3E%3Cg id='Group_2880' data-name='Group 2880'%3E%3Cpath id='Path_7076' data-name='Path 7076' class='cls-1' d='M62.05%2C31a30.91%2C30.91%2C0%2C1%2C1%2C0-.24Z'/%3E%3Cpath id='Path_7077' data-name='Path 7077' class='cls-2' d='M59.3%2C43.82A31.08%2C31.08%2C0%2C0%2C1%2C21.21%2C60.47l-5.93-20%2C28.78-14.4Z'/%3E%3Cg id='Group_2877' data-name='Group 2877'%3E%3Cpath id='Path_7078' data-name='Path 7078' class='cls-3' d='M47.61%2C36A16.59%2C16.59%2C0%2C1%2C1%2C24.24%2C20.88a3.23%2C3.23%2C0%2C0%2C0%2C1.89-3L26%2C13.73a.26.26%2C0%2C0%2C0-.26-.26h0a2.08%2C2.08%2C0%2C0%2C1-2.08-1.81%2C2%2C2%2C0%2C0%2C1%2C1.8-2.25l.22%2C0H36.18a2.08%2C2.08%2C0%2C0%2C1%2C2.08%2C1.81%2C2%2C2%2C0%2C0%2C1-1.79%2C2.25l-.23%2C0h0a.39.39%2C0%2C0%2C0-.4.4L36%2C17.93a3.27%2C3.27%2C0%2C0%2C0%2C1.92%2C3A16.59%2C16.59%2C0%2C0%2C1%2C47.61%2C36Z'/%3E%3Cpath id='Path_7079' data-name='Path 7079' class='cls-1' d='M44.68%2C35.87a13.52%2C13.52%2C0%2C0%2C1-26.81%2C2.52c3.2-4.09%2C7.81-3.53%2C13.55-.2a10.05%2C10.05%2C0%2C0%2C0%2C13.26-2.62Z'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-size: contain;
+}
+
+@media (max-width: 768px) {
+  .dcl.logo {
+    width: 32px;
+    height: 32px;
+  }
+}
